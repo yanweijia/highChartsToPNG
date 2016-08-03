@@ -94,7 +94,7 @@ json格式如下(仅将对应json数据复制进value.json即可,如果还需其
 		data: [1052, 954, 4250, 740, 38]
 	}]
 }`
-![chart1](https:/github.com/yanweijia/highChartsToPNG/READMEFILE/chart1.png)
+![chart1](https://raw.githubusercontent.com/yanweijia/highChartsToPNG/master/READMEFILE/chart1.png)
 **饼图,带百分比**
 `{
 	chart: {
@@ -148,7 +148,7 @@ json格式如下(仅将对应json数据复制进value.json即可,如果还需其
 		}]
 	}]
 }`
-![chart2](https:/github.com/yanweijia/highChartsToPNG/READMEFILE/chart2.png)
+![chart2](https://raw.githubusercontent.com/yanweijia/highChartsToPNG/master/READMEFILE/chart2.png)
 **面积图**
 `{
 	chart: {
@@ -200,6 +200,6 @@ json格式如下(仅将对应json数据复制进value.json即可,如果还需其
 		data: [3, 4, 3, 5, 4, 10, 12]
 	}]
 }`
-![chart3](https:/github.com/yanweijia/highChartsToPNG/READMEFILE/chart3.png)
+![chart3](https://raw.githubusercontent.com/yanweijia/highChartsToPNG/master/READMEFILE/chart3.png)
 My Blog
 [风旋碧浪@严唯嘉 博客]( http://www.yanweijia.cn/2016/08/03/highchartstopng/)
